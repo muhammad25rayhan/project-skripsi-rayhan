@@ -143,7 +143,7 @@
                             <h4><b>Detail Ujian</b></h4>
                             <hr>
                             <div class="row">
-                                <div class="col-4">1
+                                <div class="col-4">
                                     <p>Nama</p>
                                 </div>
                                 <div class="col-8">: <b>{{ $participant->fullname }}</b></div>
