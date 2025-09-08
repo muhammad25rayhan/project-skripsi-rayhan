@@ -55,9 +55,9 @@
                                 <th>Kelas</th>
                                 <th>Kategori Kelas</th>
                                 {{-- <th>Jawaban  Pilgan</th> --}}
-                                <th>Nilai Pilgan</th>
-                                {{-- <th>Jawaban Benar Essay</th> --}}
-                                <th>Nilai Essay</th>
+                                <th>Nilai Test</th>
+                                <th>Jawaban Benar Essay</th>
+                                {{-- <th>Nilai Essay</th> --}}
                                 <th>Tingkat Kecanduan</th>
                             </tr>
                         </thead>
